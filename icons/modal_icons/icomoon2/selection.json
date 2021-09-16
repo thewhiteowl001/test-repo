@@ -1,0 +1,61 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M877.422 667.254l-134.444-15.35c-32.292-3.705-64.051 7.41-86.812 30.171l-97.395 97.394c-149.797-76.221-272.599-198.494-348.821-348.822l97.924-97.924c22.761-22.761 33.876-54.52 30.171-86.809l-15.35-133.389c-6.352-53.462-51.344-93.69-105.334-93.69h-91.573c-59.813 0-109.569 49.756-105.864 109.569 28.054 452.041 389.579 813.040 841.091 841.090 59.809 3.708 109.568-46.051 109.568-105.86v-91.575c0.527-53.461-39.702-98.453-93.162-104.806z"
+        ],
+        "attrs": [],
+        "grid": 0,
+        "tags": [
+          "Vector"
+        ]
+      },
+      "attrs": [],
+      "properties": {
+        "order": 33,
+        "id": 0,
+        "name": "phone-modal",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon2",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

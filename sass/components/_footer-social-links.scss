@@ -1,0 +1,11 @@
+.bottom-social-list {
+    padding: 0px;
+
+    & .social-icons__icon {
+        fill: var(--eighth-level-color);
+    }
+}
+
+.bottom-icons-link--background {
+    background-color: var(--bottom-social-icons);
+}

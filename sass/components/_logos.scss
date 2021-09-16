@@ -1,0 +1,49 @@
+.logo-top {
+    display: inline-block;
+    color: var(--sixth-level-color);
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.192;
+
+    &:visited {
+        color: var(--sixth-level-color);
+    }
+    
+    &:active {
+        color: var(--sixth-level-color);
+    }
+}
+
+.web-word-logo--color {
+    color: var(--accent-color);
+
+    &:hover,
+    &:focus {
+        color: var(--sixth-level-color);
+        -webkit-transition: color var(--animation);
+        transition: color var(--animation);
+        -webkit-transition-timing-function: var(--cube-bez);
+                transition-timing-function: var(--cube-bez);
+    }
+}
+
+.logo-bottom {
+    color: var(--accent-color);
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.192;
+
+    &-word {
+        color: var(--eighth-level-color);
+    }
+}
+
+.bottom-logo-style {
+    color: var(--eighth-level-color);
+}
+
+.box-logo {
+    margin-right: 70px;
+}
